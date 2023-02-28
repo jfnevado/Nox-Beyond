@@ -24,5 +24,5 @@ It's impresive how a single y00t nft on Solana represent so much of the dashboar
 
 ## Dashboard
 
-[Pdf Visualization](../master/Dashboard/Dashboard.pdf)
 ![Dashboard Preview](https://github.com/jfnevado/Nox-Beyond/blob/master/Dashboard/Dashboard.png)
+[Pdf Visualization](../master/Dashboard/Dashboard.pdf)
